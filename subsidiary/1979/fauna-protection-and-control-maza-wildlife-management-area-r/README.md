@@ -1,0 +1,14 @@
+# Fauna (Protection and Control) Maza Wildlife Management Area Rules 1979
+
+Source: FAOLEX (FAO), https://faolex.fao.org/docs/pdf/png51810.pdf (record: https://faolex.fao.org/en/documents/LEX-FAOC051810/fauna-protection-and-control-maza-wildlife-management-area-r-png-1977)
+
+In force: 2001-01-01 (consolidation-date).
+
+| File | Provision |
+| --- | --- |
+| [s-001](s-001.md) | 1. Interpretation. |
+| [s-002](s-002.md) | 2. Traditional hand-harpoon method may be used. |
+| [s-003](s-003.md) | 3. Restriction on netting dugongs. |
+| [s-004](s-004.md) | 4. Best endeavours not to take, etc., mother or baby. |
+| [s-005](s-005.md) | 5. Selling of dugongs. |
+| [s-006](s-006.md) | 6. Penalty. |
