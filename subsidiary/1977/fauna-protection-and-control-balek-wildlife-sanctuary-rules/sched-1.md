@@ -1,0 +1,2 @@
+# SCHEDULE.
+CLAN LEADERS. Leader Clan Village Tegil Nanek Hep Clan Awa Village Wagum Tegil Hep Clan Awa Village Dira Baik Hep Clan Awa Village Sakel Tegil Hep Clan Awa Village Bedem Bahuwai Yaum Clan Awa Village Biltal Damun Yaum Clan Awa Village Ulul Damun Yaum Clan Awa Village Kom Baukam Belih Clan Awa Village Oina Bultin Belih Clan Awa Village Jabe But Belih Clan Awa Village © 2005 University of the South Pacific
