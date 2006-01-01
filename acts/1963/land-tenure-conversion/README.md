@@ -1,0 +1,40 @@
+# Land (Tenure Conversion) Act 1963
+
+Source: FAOLEX (FAO), https://faolex.fao.org/docs/pdf/png11886.pdf (record: https://faolex.fao.org/en/documents/LEX-FAOC011886/land-tenure-conversion-act-1963-png-1964)
+
+In force: 2006-01-01 (consolidation-date).
+
+| File | Provision |
+| --- | --- |
+| [s-001](s-001.md) | 1. SHORT TITLE. |
+| [s-002](s-002.md) | 2. COMMENCEMENT. |
+| [s-003](s-003.md) | 3. PARTS. |
+| [s-004](s-004.md) | 4. INTERPRETATION. |
+| [s-007](s-007.md) | 7. APPLICATION FOR REGISTRATION. |
+| [s-008](s-008.md) | 8. DEALING WITH APPLICATION. |
+| [s-009](s-009.md) | 9. CONVERSION ORDER. |
+| [s-010](s-010.md) | 10. PROCEDURE, ETC. |
+| [s-011](s-011.md) | 11. FORM AND CONTENTS OF CONVERSION ORDER. |
+| [s-012](s-012.md) | 12. AMENDMENT OF CONVERSION PLAN. |
+| [s-013](s-013.md) | 13. PERMANENT MARKING OF BOUNDARIES. |
+| [s-014](s-014.md) | 14. NOTICE OF CONVERSION ORDER, ETC. |
+| [s-015](s-015.md) | 15. CONVERSION ORDER TO BE FORWARDED TO REGISTRAR OF TITLES. |
+| [s-016](s-016.md) | 16. EFFECT OF ORDER. |
+| [s-016a](s-016a.md) | 16A. LAND THE SUBJECT OF A CONVERSION ORDER NOT TO BE |
+| [s-017](s-017.md) | 17. APPLICATION OF REAL PROPERTY (REGISTRATION OF LEASES) ACT 1962. |
+| [s-018](s-018.md) | 18. HEARINGS TO BE PUBLIC. |
+| [s-019](s-019.md) | 19. HEARINGS TO BE AS CLOSE TO THE LAND AS PRACTICABLE. |
+| [s-020](s-020.md) | 20. MINUTES OF EVIDENCE TO BE KEPT. |
+| [s-021](s-021.md) | 21. REASONS FOR DECISION TO BE GIVEN. |
+| [s-022](s-022.md) | 22. LAND TITLES COMMISSION ACT NOT AFFECTED. |
+| [s-023](s-023.md) | 23. APPLICATION OF PART III. |
+| [s-024](s-024.md) | 24. LIMITATIONS ON REGISTRATION. |
+| [s-025](s-025.md) | 25. FRAGMENTATION BY TRANSACTIONS. |
+| [s-026](s-026.md) | 26. REGULATION OF DEALINGS. |
+| [s-026a](s-026a.md) | 26A. REMOVAL OF RESTRICTIONS UPON DEALINGS. |
+| [s-027](s-027.md) | 27. FRAGMENTATION BY DEVOLUTION. |
+| [s-028](s-028.md) | 28. REGISTRATION FEES, ETC. |
+| [s-029](s-029.md) | 29. FEES, ETC., ON DEALINGS. |
+| [s-030](s-030.md) | 30. MARKING OF CLAIMS, ETC. |
+| [s-031](s-031.md) | 31. MAINTENANCE OF MARKS, ETC. |
+| [s-032](s-032.md) | 32. REGULATIONS. |
