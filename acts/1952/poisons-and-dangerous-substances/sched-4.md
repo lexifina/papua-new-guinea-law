@@ -1,0 +1,22 @@
+# SCHEDULE 4 – UNRESTRICTED DANGEROUS SUBSTANCES.
+[4]Secs. 1, 11. Note 1 A reference in this Schedule to a substance shall be deemed to include a reference to any compound preparation, or admixture containing any proportion of the substance, and these are therefore subject to all the restrictions of this Schedule, unless specifically exempted, or specifically included, in any other Schedule. Note 2 This Schedule does not apply to a substance specified in it when contained in–
+(a) batteries and accumulators; or
+(b) ceramics; or
+(c) electrical components and electrical lamps; or
+(d) explosives; or
+(e) fireworks other than fireworks containing arsenic; or
+(f) glazes; or
+(g) inorganic pigments; or
+(h) matches; or
+(i) motor fuels and lubricants; or
+(j) paints other than substances prepared for medicinal or cosmetic purposes; or
+(k) paper; or
+(l) photographic paper; or
+(m) propellants; or
+(n) timber and wall board; or
+(o) vitreous enamels. Acetylene and calcium carbide Allethrin Ammonia, excluding its salts and derivatives other than ammonium hydroxide, in substances containing 5% or less of ammonia, except–
+(a) in medicinal preparations for internal use; or
+(b) in appliances for inhalation in which the substance is absorbed upon an inert solid material; or
+(c) in substances containing 0.5% or less of ammonia. Aramite (R) Arsenate of lead. Bromophos Carbaryl Chlorbenzilate Chlordane Chloropropylate Chlorothion Codeine in substances containing less than 1% of codeine. Coloured chalks, crayons, school pastels, finger colours and show card colours containing any scheduled poison or dangerous substance. DDT Diazinon Dichlorethylene Dichlorpropane Dichlorvos when impregnated in plastic resin material containing not more than 20% weight- in-weight of dichlorvos, or in aerosol formulations containing not more than 3% weight-in- weight of dichlorvos. Dicofol Disinfectants of cresol type, not elsewhere included. Disinfectants of essential oil type. Ethyl alcohol Fenitrothion Formaldehyde in substances containing 5% or less of formaldehyde, except in substances containing 0.5% or less of formaldehyde. Formothion Hydrocarbons, liquid, distilling under 300°C when tested according to method D86-61 of the American Society for Testing Materials, in substances containing more than 25% of such liquid hydrocarbons when packed in containers of 18.184 litres or less. Hydrochloric acid, excluding its salts and derivatives, in substances containing 10% or less of hydrochloric acid except in substances containing 0.5% or less of hydrochloric acid. Hydrogen peroxide in substances containing more than 6% weight-in-volume of hydrogen peroxide. Iodine in liquid substances containing 2.5% or less of free iodine. Iodophors containing 25% or less of free iodine. Kerosene Lindane Maldison Metaldehyde Methoxychlor Methylated spirits Mineral turpentine in substances containing more than 25% of mineral turpentine when packed in containers of 18.184 litres or less. Nitric acid, excluding its salts and derivatives, in substances containing 10% or less weight- in-weight of nitric acid. Oil of turpentine in substances containing more than 25% of oil of turpentine when packed in containers of 18.184 litres or less. Paints, dopes and varnishes containing a poisonous substance or solvent. Paradichlorbenzene Permanganates Petrol in substances containing more than 25% of petrol when packed in containers of 18.184 litres or less. Phenol, cresol, creosote and other homologues of phenol boiling below 220° C in substances containing 3% or less by weight of phenol, cresol, cresote and other homologues of phenol boiling below 220° C, except in preparations for medicinal use. Phosphides, metallic Phosphorus, yellow, in substances containing 0.5% or less of free phosphorus. Picric acid, in substances containing 5% or less of picric acid. Potassium hydroxide Pyrethrins Rotenone in substances containing not more than 3% weight-in-weight of rotenone. Ryania Sex Hormones when contained in the following ovulation inhibiting preparations for oral use:–
+(i) pack of 21 tablets each containing a sex hormone; or
+(ii) pack of 28 tablets; 21 containing a sex hormone and 7 containing an inert substance. Sodium hydroxide Sodium nitrite in substances containing more than 1% of sodium nitrite. Thiourea Thiram Toluene Trichlorphon Xylene Zinc, poisonous salts of, in substances containing less than 5% .
