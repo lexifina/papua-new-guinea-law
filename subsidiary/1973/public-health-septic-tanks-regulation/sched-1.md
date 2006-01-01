@@ -1,0 +1,2 @@
+# SCHEDULE 1 – WATER-CLOSETS, URINALS AND HAND BASINS IN PUBLIC
+BUILDINGS. Regs., Sec. 85(2)(f). PART A – WATER-CLOSETS AND URINALS. Number of seats in building. Water-closets for male persons. Urinals. Water- closets for female persons. Not exceeding 200 Exceeding 200 but not exceeding 400 Exceeding 400 but not exceeding 600 Exceeding 600 but not exceeding 1,000 Exceeding 1,000-for each additional 1,000 or part of 1,000 PART B – HAND BASINS. Number of seats in building. Hand basins for male persons. Hand basins for female persons. For each 500 or part of 500 1.

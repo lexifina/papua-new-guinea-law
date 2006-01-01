@@ -1,0 +1,2 @@
+# SCHEDULE 2 – CHARGES FOR CLEANSING OF SEPTIC TANKS AND AQUA-
+PRIVIES. Regs., Sec. 106(1)(b). Effective Capacity of Tank. Fees. K. Not exceeding 2,700l 17.00 Exceeding 2,700l but not exceeding 4,500l 18.00 Exceeding 4,500l but not exceeding 6,800l 19.00 Exceeding 6,800l 19.00 for the first 6,800l and a rate of 0.05 per 100l thereafter. Office of Legislative Counsel, PNG © 1998 University of the South Pacific
