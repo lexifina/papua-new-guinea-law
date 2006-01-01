@@ -1,0 +1,31 @@
+# Disaster Management Act 1984
+
+Source: FAOLEX (FAO), https://faolex.fao.org/docs/pdf/png51666.pdf (record: https://faolex.fao.org/en/documents/LEX-FAOC051666/disaster-management-act-1984-png-1984)
+
+In force: 2006-01-01 (consolidation-date).
+
+| File | Provision |
+| --- | --- |
+| [s-001](s-001.md) | 1. PURPOSE OF THE ACT. |
+| [s-002](s-002.md) | 2. INTERPRETATION. |
+| [s-003](s-003.md) | 3. NATIONAL DISASTER COMMITTEE. |
+| [s-004](s-004.md) | 4. CO-OPTED MEMBERS OF NATIONAL DISASTER COMMITTEE. |
+| [s-005](s-005.md) | 5. MEETINGS OF THE NATIONAL DISASTER COMMITTEE. |
+| [s-006](s-006.md) | 6. FUNCTIONS OF THE NATIONAL DISASTER COMMITTEE. |
+| [s-007](s-007.md) | 7. POWERS OF THE NATIONAL DISASTER COMMITTEE. |
+| [s-008](s-008.md) | 8. REPORTS. |
+| [s-009](s-009.md) | 9. PROVINCIAL DISASTER COMMITTEES. |
+| [s-010](s-010.md) | 10. CO-OPTED MEMBERS OF PROVINCIAL DISASTER COMMITTEES. |
+| [s-011](s-011.md) | 11. MEETINGS OF A PROVINCIAL DISASTER COMMITTEE. |
+| [s-012](s-012.md) | 12. FUNCTIONS OF A PROVINCIAL DISASTER COMMITTEE. |
+| [s-013](s-013.md) | 13. POWERS OF A PROVINCIAL DISASTER COMMITTEE. |
+| [s-014](s-014.md) | 14. REPORTS. |
+| [s-015](s-015.md) | 15. NATIONAL DISASTER CENTRE. |
+| [s-016](s-016.md) | 16. DIRECTOR OF THE NATIONAL DISASTER CENTRE. |
+| [s-017](s-017.md) | 17. FUNCTIONS OF THE DIRECTOR. |
+| [s-018](s-018.md) | 18. OTHER STAFF. |
+| [s-019](s-019.md) | 19. REQUEST FOR ASSISTANCE. |
+| [s-020](s-020.md) | 20. GRANTING OF REQUEST FOR ASSISTANCE. |
+| [s-021](s-021.md) | 21. FUNDING FOR DISASTER RELIEF COSTS. |
+| [s-022](s-022.md) | 22. REGULATIONS. |
+| [s-023](s-023.md) | 23. REPEAL. |
