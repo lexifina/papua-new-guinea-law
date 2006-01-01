@@ -1,0 +1,52 @@
+# Oil Palm Industry Corporation Act 1992
+
+Source: FAOLEX (FAO), https://faolex.fao.org/docs/pdf/png52201.pdf (record: https://faolex.fao.org/en/documents/LEX-FAOC052201/oil-palm-industry-corporation-act-1992-png-1992)
+
+In force: 2006-01-01 (consolidation-date).
+
+| File | Provision |
+| --- | --- |
+| [s-001](s-001.md) | 1. COMPLIANCE WITH CONSTITUTIONAL REQUIREMENTS. |
+| [s-002](s-002.md) | 2. APPLICATION. |
+| [s-003](s-003.md) | 3. INTERPRETATION. |
+| [s-004](s-004.md) | 4. ESTABLISHMENT OF THE CORPORATION. |
+| [s-005](s-005.md) | 5. FUNCTIONS OF THE CORPORATION. |
+| [s-006](s-006.md) | 6. POWERS OF THE CORPORATION. |
+| [s-007](s-007.md) | 7. THE BOARD. |
+| [s-008](s-008.md) | 8. MEMBERSHIP. |
+| [s-009](s-009.md) | 9. ALTERNATE MEMBERS. |
+| [s-010](s-010.md) | 10. CHAIRMAN AND DEPUTY CHAIRMAN. |
+| [s-011](s-011.md) | 11. VACATION OF OFFICE. |
+| [s-012](s-012.md) | 12. VACANCY NOT TO AFFECT POWERS OR FUNCTIONS. |
+| [s-013](s-013.md) | 13. MEETINGS OF THE BOARD. |
+| [s-014](s-014.md) | 14. DISCLOSURE OF INTEREST BY MEMBERS. |
+| [s-015](s-015.md) | 15. REPORTS. |
+| [s-016](s-016.md) | 16. ESTABLISHMENT OF SECRETARIAT. |
+| [s-017](s-017.md) | 17. APPOINTMENT, ETC., OF GENERAL SECRETARY. |
+| [s-018](s-018.md) | 18. APPOINTMENT OF STAFF. |
+| [s-019](s-019.md) | 19. ESTABLISHMENT OF LOCAL PLANNING COMMITTEES. |
+| [s-020](s-020.md) | 20. CHAIRMAN AND DEPUTY CHAIRMAN. |
+| [s-021](s-021.md) | 21. VACATION OF OFFICE. |
+| [s-022](s-022.md) | 22. VACANCY NOT TO AFFECT POWERS OR FUNCTIONS. |
+| [s-023](s-023.md) | 23. DISCLOSURE OF INTEREST. |
+| [s-024](s-024.md) | 24. MEETINGS OF THE COMMITTEE. |
+| [s-025](s-025.md) | 25. FUNCTIONS OF A COMMITTEE. |
+| [s-026](s-026.md) | 26. POWERS OF A COMMITTEE. |
+| [s-027](s-027.md) | 27. REPORT. |
+| [s-028](s-028.md) | 28. APPLICATION OF PUBLIC FINANCES (MANAGEMENT) ACT 1995. |
+| [s-029](s-029.md) | 29. FUNDS OF THE CORPORATION. |
+| [s-030](s-030.md) | 30. TAXATION. |
+| [s-031](s-031.md) | 31. IMPOSITION AND COLLECTION OF LEVY. |
+| [s-032](s-032.md) | 32. PURPOSES OF THE CORPORATION TO BE PUBLIC PURPOSE. |
+| [s-033](s-033.md) | 33. PROOF OF CERTAIN MATTERS. |
+| [s-034](s-034.md) | 34. SERVICE OF PROCESS. |
+| [s-035](s-035.md) | 35. AUTHENTICATION OF DOCUMENTS. |
+| [s-036](s-036.md) | 36. APPOINTMENT OF ATTORNEYS. |
+| [s-037](s-037.md) | 37. COMPENSATION. |
+| [s-038](s-038.md) | 38. RECOVERY OF MONEY DUE. |
+| [s-039](s-039.md) | 39. PROTECTION FROM PERSONAL LIABILITY. |
+| [s-040](s-040.md) | 40. REGULATIONS. |
+| [s-041](s-041.md) | 41. DELEGATION. |
+| [s-042](s-042.md) | 42. TRANSFER OF ASSETS. |
+| [s-043](s-043.md) | 43. STAFF. |
+| [sched-1](sched-1.md) | SCHEDULE 1 – EXCEPTIONS AND MODIFICATIONS TO THE PUBLIC |
