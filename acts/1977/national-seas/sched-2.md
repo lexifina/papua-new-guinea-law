@@ -1,0 +1,86 @@
+# SCHEDULE 2 – INTERIM DELIMITATION OF ARCHIPELAGIC WATERS.
+Sec. 9(2). PART 1 – THE PRINCIPAL ARCHIPELAGO. A line commencing at the southernmost point of the land boundary with Indonesia and following that boundary to its northernmost point and then following the geodesic lines successively linking the outermost low water points of the following land areas, namely:–
+(a) Wuvulu Island;
+(b) Aua Island:
+(c) Manu Island;
+(d) Palitolla Iasland (Pellelehu Group);
+(e) Heina Islands;
+(f) Sae Islands;
+(g) Kaniet Islands
+(h) Marengan Island;
+(i) Ahet Island;
+(j) Ponam Island;
+(k) Andra Island;
+(l) Hapinbuch Island;
+(m) Hus Island;
+(n) Onpeta Island;
+(o) Mandrindr Island;
+(p) Pityilu Island;
+(q) Hauwei Island;
+(r) Ndrilo Island;
+(s) Koruniat Island;
+(t) Los Negros Island;
+(u) Pak Island;
+(v) Tong Island;
+(w) Towi Island;
+(x) Putuli Island
+(y) Mbatmanda Island;
+(z) Mussau Island;
+(za) Emirau Island;
+(zb) Elomusao Island;
+(zc) Enus Island;
+(zd) Simberi Island;
+(ze) Mahur Island;
+(zf) Boang Island;
+(zg) Malum Islands;
+(zh) Southern Nugaria Islands;
+(zi) Kilinailau Islands;
+(zj) Anusagaio Island;
+(zk) Islands and low water points around the south east and south coast of Bougainville to Kabukeai Island
+(zl) Motupena Point;
+(zm) Puruata Island;
+(zn) Islands and low water points along the north west coast of Bougainville to Cape Rungnoum;
+(zo) Cape St. George (New Ireland);
+(zp) Cape Orford (New Britain);
+(zq) Islands and low water points along the south coast of New Britain to Kauptimeti Island;
+(zr) Tami Island;
+(zs) Mitre Rock;
+(zt) Cape Nelson;
+(zu) Kanapu Island;
+(zv) Gwadarab Island;
+(zw) Kuaniagal Island;
+(zx) Simlindon Island;
+(zy) Kadai Island;
+(zz) Bomatu Point (Kiriwina Island);
+(zza) Iwa Island;
+(zzb) Dugumenu Island;
+(zzc) Cam Point (Madau Island);
+(zzd) Woodlark Island;
+(zze) Cannac Island;
+(zzf) Wabomat Island;
+(zzg) Budelun Island;
+(zzh) Bukulan Island;
+(zzi) Oburak Island;
+(zzj) Tokona Island;
+(zzk) Cape Henry (Misima Island);
+(zzl) Renard Islands;
+(zzm) Rossel Island;
+(zzn) Loa Boloba Island;
+(zzo) Tagula Island;
+(zzp) Duchateau Island;
+(zzy) Pana Boba Island;
+(zzr) Montemont Island;
+(zzs) Pana Waipona Island;
+(zzt) Punawan Island;
+(zzu) Duperre Islets;
+(zzv) Lejeune Island;
+(zzw) Long Reef Island;
+(zzx) Sable Island;
+(zzy) Quessant Island;
+(zzz) Steuers Island;
+(zzza) Dumoulin Island;
+(zzzb) Harikoia Island;
+(zzzc) Brumer Island;
+(zzzd) Baibesiga Island;
+(zzze) Suau Island;
+(zzzf) the southern coast of the island of New Guinea (in a westerly direction to the point of commencement). PART 2 – THE TAUU ISLANDS ARCHIPELAGO. A line enclosing all islands, shoals, rocks and reefs (whether or not submerged) lying between the parallels 4° 30’ and 5° south latitude and between the meridians 156° 30’ and 157° 30’ east longitude the line being a continuous line drawn between the outermost points of islands, shoals, rocks and reefs and shown on a chart designated by the Minister by notice in the National Gazette. PART 3 – THE NUKUMANU ISLANDS ARCHIPELAGO. A line enclosing all islands, shoals, rocks and reefs (whether or not submerged) lying between the parallels 4° 20’ and 4° 50’ south latitude and between the meridians 159° and 160° east longitude the line being a continuous line drawn between the outermost points of islands, shoals, rocks and reefs and shown on a chart designated by the Minister by notice in the National Gazette. Office of Legislative Counsel, PNG © 1998 University of the South Pacific
