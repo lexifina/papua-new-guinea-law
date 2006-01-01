@@ -1,0 +1,40 @@
+# Environmental Planning Act 1978
+
+Source: FAOLEX (FAO), https://faolex.fao.org/docs/pdf/png51670.pdf (record: https://faolex.fao.org/en/documents/LEX-FAOC051670/environmental-planning-act-1978-png-1978)
+
+In force: 2006-01-01 (consolidation-date).
+
+| File | Provision |
+| --- | --- |
+| [s-001](s-001.md) | 1. COMPLIANCE WITH CONSTITUTIONAL REQUIREMENTS. |
+| [s-002](s-002.md) | 2. INTERPRETATION. |
+| [s-003](s-003.md) | 3. APPLICATION. |
+| [s-004](s-004.md) | 4. SUBMISSION OF ENVIRONMENTAL PLAN. |
+| [s-005](s-005.md) | 5. GUIDELINES. |
+| [s-006](s-006.md) | 6. NOTICE TO BE PUBLISHED. |
+| [s-007](s-007.md) | 7. DUTY TO ADVISE MINISTER. |
+| [s-008](s-008.md) | 8. RESTRAINT ON APPROVALS, ETC. |
+| [s-009](s-009.md) | 9. COMPENSATION NOT PAYABLE. |
+| [s-010](s-010.md) | 10. EXEMPTION. |
+| [s-011](s-011.md) | 11. PERSON OR AUTHORITY MAY MAKE REPRESENTATIONS. |
+| [s-012](s-012.md) | 12. EXEMPTION MAY BE GRANTED. |
+| [s-013](s-013.md) | 13. ASSESSMENT OF ENVIRONMENTAL PLAN. |
+| [s-014](s-014.md) | 14. PERSON OR AUTHORITY MAY MAKE REPRESENTATIONS TO MINISTER. |
+| [s-015](s-015.md) | 15. RECOMMENDATION. |
+| [s-016](s-016.md) | 16. NOTICE OF RECOMMENDATION TO BE PUBLISHED, ETC. |
+| [s-017](s-017.md) | 17. BOARD OF INQUIRY OR REFERENCE TO NATIONAL PLANNING |
+| [s-018](s-018.md) | 18. DECISION. |
+| [s-019](s-019.md) | 19. OFFENCE TO PROCEED. |
+| [s-020](s-020.md) | 20. PRESERVATION OF LEGAL REMEDIES. |
+| [s-021](s-021.md) | 21. SUBSEQUENT SUBMISSION. |
+| [s-022](s-022.md) | 22. WITHDRAWAL OF ENVIRONMENTAL PLAN. |
+| [s-023](s-023.md) | 23. FALSE INFORMATION. |
+| [s-024](s-024.md) | 24. INFORMATION MAY BE WITHHELD. |
+| [s-025](s-025.md) | 25. SERVICE OF NOTICES, ETC. |
+| [s-026](s-026.md) | 26. REGISTER. |
+| [s-027](s-027.md) | 27. INSTITUTION OF PROCEEDINGS, ETC. |
+| [s-028](s-028.md) | 28. ENVIRONMENTAL CONTAMINANTS ACT TO APPLY. |
+| [s-029](s-029.md) | 29. GENERAL PENALTY. |
+| [s-030](s-030.md) | 30. INSPECTION. |
+| [s-031](s-031.md) | 31. OBSTRUCTION OF INSPECTORS. |
+| [s-032](s-032.md) | 32. REGULATIONS. |
