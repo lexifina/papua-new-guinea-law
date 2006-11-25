@@ -1,0 +1,48 @@
+# Fisheries Management Regulation 2000
+
+Source: FAOLEX (FAO), https://faolex.fao.org/docs/pdf/png51963.pdf (record: https://faolex.fao.org/en/documents/LEX-FAOC051963/fisheries-management-regulation-2000-png-2000)
+
+In force: 2006-11-25 (consolidation-date).
+
+| File | Provision |
+| --- | --- |
+| [s-001](s-001.md) | 1. INTERPRETATION. |
+| [s-002](s-002.md) | 2. ACTIVITIES REQUIRING LICENCE. |
+| [s-003](s-003.md) | 3. FISHING VESSEL LICENCES. |
+| [s-004](s-004.md) | 4. TRIAL FISHING LICENCE. |
+| [s-005](s-005.md) | 5. AQUACULTURE LICENCE. |
+| [s-006](s-006.md) | 6. FISH BUYERS LICENCE. |
+| [s-007](s-007.md) | 7. FISH STORAGE FACILITY, FISH FACTORY AND FISH EXPORT FACILITY |
+| [s-008](s-008.md) | 8. LICENCE APPLICATIONS. |
+| [s-009](s-009.md) | 9. CONSIDERATION OF LICENCE APPLICATIONS. |
+| [s-010](s-010.md) | 10. LICENCE ISSUANCE AND FEES. |
+| [s-011](s-011.md) | 11. FEES FOR FOREIGN FISHING VESSEL. |
+| [s-012](s-012.md) | 12. PERFORMANCE BONDS. |
+| [s-013](s-013.md) | 13. DRAWING ON PERFORMANCE BONDS. |
+| [s-014](s-014.md) | 14. PERIOD OF LICENCE. |
+| [s-015](s-015.md) | 15. LICENCE NOT TRANSFERABLE. |
+| [s-016](s-016.md) | 16. CHANGE OF OWNERSHIP. |
+| [s-017](s-017.md) | 17. LOST, DESTROYED OR DEFACED LICENCE. |
+| [s-018](s-018.md) | 18. AUTOMATIC SUSPENSION OF LICENCE. |
+| [s-019](s-019.md) | 19. SUSPENSION OF LICENCE. |
+| [s-020](s-020.md) | 20. AUTOMATIC TERMINATION OF LICENCE. |
+| [s-021](s-021.md) | 21. CANCELLATION OF LICENCE BY BOARD. |
+| [s-022](s-022.md) | 22. SURRENDER OF LICENCE. |
+| [s-023](s-023.md) | 23. VESSEL REPORTING REQUIREMENTS. |
+| [s-024](s-024.md) | 24. PORT CALLS. |
+| [s-025](s-025.md) | 25. TRANSHIPMENT OF FISH AND TRANSHIPMENT REPORTS. |
+| [s-026](s-026.md) | 26. FISH BUYER, STORAGE, FISH FACTORY, EXPORT FACILITY REPORTS. |
+| [s-027](s-027.md) | 27. AQUACULTURE LICENCE HOLDER AND OTHERS. |
+| [s-028](s-028.md) | 28. APPLICATION OF PART VII. |
+| [s-029](s-029.md) | 29. APPLICATION OF OTHER ACTS. |
+| [s-030](s-030.md) | 30. EXPORT BY CARRIER REQUIRED. |
+| [s-031](s-031.md) | 31. NOTICE OF EXPORT. |
+| [s-032](s-032.md) | 32. ELECTRONIC TRANSMISSION AND STORAGE. |
+| [s-033](s-033.md) | 33. VESSEL MONITORING SYSTEM. |
+| [s-034](s-034.md) | 34. MARKING OF VESSELS. |
+| [s-035](s-035.md) | 35. MARKING OF GEAR. |
+| [s-036](s-036.md) | 36. MARKING OF SUPPORT CRAFT. |
+| [s-037](s-037.md) | 37. FEES FOR SERVICES. |
+| [s-038](s-038.md) | 38. OFFENCES. |
+| [s-039](s-039.md) | 39. PENALTIES. |
+| [sched-1](sched-1.md) | SCHEDULE 1 – LICENCE FEES. |
