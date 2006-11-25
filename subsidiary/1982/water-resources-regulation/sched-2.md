@@ -1,0 +1,2 @@
+# SCHEDULE 2 – [1]FEES FOR THE USE OF WATER.
+Basic charge–K0.001/m3/year FORMULA Annual charge = volume taken x basic charge x use factor (K/year) (m3/year) (K/m3/year/) Item Water Use Use Factor Minimum Annual Charge K 1. Public distribution and water supply 2. Industrial activities within plant re-use of water (must re-use at least 50% of water) 0.8 3. Industrial activities with no re-use of water 4. Sprinkler irrigation 0.3 5. Trickle irrigation 0.1 6. Flow irrigation (border, dyke or flooding) 0.5 7. Non-consumptive use (hydro, dam, water wheels, etc.) 0.1
