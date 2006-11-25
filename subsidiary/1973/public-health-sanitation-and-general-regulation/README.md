@@ -1,0 +1,88 @@
+# Public Health (Sanitation and General) Regulation 1973
+
+Source: FAOLEX (FAO), https://faolex.fao.org/docs/pdf/png53727.pdf (record: https://faolex.fao.org/en/documents/LEX-FAOC053727/public-health-sanitation-and-general-regulation-1973-png-1973)
+
+In force: 2006-11-25 (consolidation-date).
+
+| File | Provision |
+| --- | --- |
+| [s-001](s-001.md) | 1. INTERPRETATION. |
+| [s-002](s-002.md) | 2. UNOCCUPIED BUILDINGS. |
+| [s-003](s-003.md) | 3. APPLICATION. |
+| [s-004](s-004.md) | 4. CONVEYANCE OF REFUSE. |
+| [s-005](s-005.md) | 5. KEEPING OF ANIMALS AND DOMESTIC BIRDS. |
+| [s-006](s-006.md) | 6. CLEANSING OF STABLES, ETC. |
+| [s-007](s-007.md) | 7. KEEPING OF OFFENSIVE MATTER ON PREMISES. |
+| [s-008](s-008.md) | 8. STORING OF MANURE. |
+| [s-009](s-009.md) | 9. CLEANLINESS OF PREMISES. |
+| [s-010](s-010.md) | 10. RATS AND VERMIN. |
+| [s-011](s-011.md) | 11. OVERCROWDED DWELLINGS. |
+| [s-012](s-012.md) | 12. STRUCTURAL DEFECTS. |
+| [s-013](s-013.md) | 13. PREMISES UNFIT FOR HUMAN HABITATION. |
+| [s-014](s-014.md) | 14. DEPOSIT OF REFUSE ON PUBLIC PLACE. |
+| [s-015](s-015.md) | 15. FLYPROOFING IN LICENSED PREMISES. |
+| [s-016](s-016.md) | 16. POWER TO DIRECT BUILDING OF CLOSETS. |
+| [s-017](s-017.md) | 17. CONSTRUCTION OF CLOSETS. |
+| [s-018](s-018.md) | 18. CESSPITS. |
+| [s-019](s-019.md) | 19. PROVISION OF DEODORIZING MATERIAL. |
+| [s-020](s-020.md) | 20. NUMBER OF CLOSETS TO BE PROVIDED. |
+| [s-021](s-021.md) | 21. URINALS. |
+| [s-022](s-022.md) | 22. LIGHTING OF CLOSETS, ETC. |
+| [s-023](s-023.md) | 23. NOTICES ON CLOSETS. |
+| [s-024](s-024.md) | 24. NOTIFICATION OF CERTAIN NUISANCES. |
+| [s-025](s-025.md) | 25. NOTICE TO ABATE NUISANCE. |
+| [s-026](s-026.md) | 26. ALTERATIONS TO SANITARY CONVENIENCES, ETC. |
+| [s-027](s-027.md) | 27. TEMPORARY SANITARY ACCOMMODATION. |
+| [s-028](s-028.md) | 28. SANITARY CONVENIENCES TO BE USED. |
+| [s-029](s-029.md) | 29. NIGHT-SOIL DEPOTS. |
+| [s-030](s-030.md) | 30. DEPOSIT OF NIGHT-SOIL. |
+| [s-031](s-031.md) | 31. REMOVAL OF NIGHT-SOIL TO DEPOTS. |
+| [s-032](s-032.md) | 32. PROVISION OF PANS. |
+| [s-033](s-033.md) | 33. UNAUTHORIZED REMOVAL OF NIGHT-SOIL. |
+| [s-034](s-034.md) | 34. UNAUTHORIZED REMOVAL OF PANS. |
+| [s-035](s-035.md) | 35. DEPOSIT OF REFUSE IN PAN. |
+| [s-036](s-036.md) | 36. DISPOSAL OF NIGHT-SOIL AT NIGHT-SOIL DEPOTS. |
+| [s-037](s-037.md) | 37. CONDUCTING OF NIGHT-SOIL DEPOTS. |
+| [s-038](s-038.md) | 38. ACCESS TO CLOSETS, ETC. |
+| [s-039](s-039.md) | 39. REFUSE DEPOTS. |
+| [s-040](s-040.md) | 40. PROVISION OF REFUSE BINS. |
+| [s-041](s-041.md) | 41. CLEANING, ETC., OF REFUSE BINS. |
+| [s-042](s-042.md) | 42. BURNING OF REFUSE. |
+| [s-043](s-043.md) | 43. PLACING OF REFUSE BINS FOR COLLECTION. |
+| [s-044](s-044.md) | 44. EMPTYING OF REFUSE BINS. |
+| [s-045](s-045.md) | 45. ACCESS TO REFUSE BINS, ETC. |
+| [s-046](s-046.md) | 46. POWER OF ENTRY. |
+| [s-047](s-047.md) | 47. UNLAWFUL ENTRY ON DEPOTS. |
+| [s-048](s-048.md) | 48. STRAYING ANIMALS, ETC. |
+| [s-049](s-049.md) | 49. CONTROL OF DEPOTS. |
+| [s-050](s-050.md) | 50. CHARGES FOR SERVICES. |
+| [s-051](s-051.md) | 51. LIABILITY FOR CHARGES. |
+| [s-052](s-052.md) | 52. OCCUPATION OF DWELLINGS. |
+| [s-053](s-053.md) | 53. VACANT BUILDINGS. |
+| [s-054](s-054.md) | 54. AGREEMENTS FOR REMOVAL OF NIGHT-SOIL, ETC. |
+| [s-055](s-055.md) | 55. INTERPRETATION OF PART V. |
+| [s-056](s-056.md) | 56. POLLUTED WATER SUPPLIES. |
+| [s-057](s-057.md) | 57. OBSTRUCTION, ETC. |
+| [s-058](s-058.md) | 58. DISPOSAL OF OFFENSIVE MATTER. |
+| [s-059](s-059.md) | 59. ALLOWING PREMISES TO BE BREEDING PLACES. |
+| [s-060](s-060.md) | 60. VESSELS. |
+| [s-061](s-061.md) | 61. STORAGE TANKS. |
+| [s-062](s-062.md) | 62. PONDS, ETC. |
+| [s-063](s-063.md) | 63. SWAMPS. |
+| [s-064](s-064.md) | 64. WATER IN CANS. |
+| [s-065](s-065.md) | 65. GUTTERS, ETC. |
+| [s-066](s-066.md) | 66. CUTTING DOWN, ETC., OF VEGETATION. |
+| [s-067](s-067.md) | 67. INTERFERENCE WITH DRAINS, ETC. |
+| [s-068](s-068.md) | 68. LEAVING EMPTY TINS, ETC., IN STREETS. |
+| [s-069](s-069.md) | 69. DISTURBANCES TO SURFACE OF GROUND. |
+| [s-070](s-070.md) | 70. DESTRUCTION, ETC., OF PLANTS RETAINING WATER. |
+| [s-071](s-071.md) | 71. INSPECTION. |
+| [s-072](s-072.md) | 72. INSTALLATION. |
+| [s-073](s-073.md) | 73. EMISSION OF UNDUE SMOKE, ETC. |
+| [s-074](s-074.md) | 74. CHARGING AND EMPTYING INCINERATORS. |
+| [s-075](s-075.md) | 75. REFUSE, ETC., FOR INCINERATION. |
+| [s-076](s-076.md) | 76. CLEANLINESS OF SURROUNDINGS. |
+| [s-077](s-077.md) | 77. HOURS OF ENTRY. |
+| [s-078](s-078.md) | 78. INDEMNITY. |
+| [s-079](s-079.md) | 79. LIABILITY OF THE STATE. |
+| [s-080](s-080.md) | 80. GENERAL PENALTY. |
