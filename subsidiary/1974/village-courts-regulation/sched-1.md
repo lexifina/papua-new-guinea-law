@@ -1,0 +1,3 @@
+# SCHEDULE 1
+Village Courts Act 1989. Form 1 – Record of Settlement Order. Reg., Sec. 4. Form 1. Village Courts Act 1989. Form 2 – Record of Preventive Order. Reg., Sec. 5. Form 2. Village Courts Act 1989. Form 3 – Record of Order. Reg., Sec. 6(1)(a). Form 3. Village Courts Act 1989. Form 4 – Record of Order for Imprisonment. Reg., Sec. 6(1)(b). Form 4. Village Courts Act 1989. Form 5 – Certificate of Appointment of Village Magistrate. Reg., Sec. 7. Form 5. Office of Legislative Counsel, PNG
+[1] Section 2 replaced by the Village Courts (Amendment) Regulation 1989 (No. 8 of 1989). © 1998 University of the South Pacific
