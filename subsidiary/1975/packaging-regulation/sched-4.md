@@ -1,0 +1,2 @@
+# SCHEDULE 4 – PRINT SIZES FOR STATEMENTS OF WEIGHT OR MEASURE
+ON PACKAGES. Reg., Sec. 9. Maximum dimension of package&break;(other than a bottle). Minimum height of print. 80 mm or under 0 mm Over 80 mm but not over 160 mm 5 mm Over 160 mm but not over 260 mm 3 mm Over 260 mm 8 mm Maximum dimension of bottle. Minimum height of print. 120 mm or under 0 mm Over 120 mm but not over 230 mm 5 mm Over 230 mm but not over 360 mm 3 mm Over 360 mm 8 mm
