@@ -1,0 +1,2 @@
+# SCHEDULE 1
+Survey Co-ordination Act 1967. Form 1 – CENTRAL PLAN REGISTER. Act, Sec. 8. Form 1.Reg., Sec. 2. Survey Co-ordination Act 1967. Form 2 – Central Plan Register. Reg., Sec. 3(1)(b). Form 2. Survey Co-ordination Act 1967. Form 3 – CERTIFICATE AS TO CORRECTNESS OF LIST OF PLANS. Reg., Sec. 4. Form 3. Survey Co-ordination Act 1967. Form 4 – NOTICE OF INTENTION TO COMMENCE SURVEY. Act, Sec. 5(1). Form 4.Reg., Sec. 5. Survey Co-ordination Act 1967. Form 5 – NOTICE OF PERMANENT MARK. Act, Sec. 15. Form 5Reg., Sec. 15.
