@@ -1,0 +1,2 @@
+# SCHEDULE 2 – FEES FOR PLANS FOR CONNECTIONS TO SEWERAGE
+SYSTEMS. Reg., Sec. 10. K 1. Plan of drainage for building where not more than one water- closet or urinal is provided 2.00 for every additional water-closet or urinal 1.00 2. Plan of any amendment of original plan referred to in Item 1 1.00 3. Plan of sewerage connection 1.00 4. Survey of levels where required for the purposes of a plan referred to in Item 1, 2 or 3 2.00
