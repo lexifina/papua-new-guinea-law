@@ -1,0 +1,2 @@
+# SCHEDULE 4 - JUDICIAL DECLARATION.
+Sec.Sch.1.2(1). "I…, do promise and declare that I will well and truly serve the Independent State of Papua New Guinea and its People in the office of…, that I will in all things uphold the Constitution and the laws of the Independent State of Papua New Guinea, and I will do right to all manner of people in accordance therewith, without fear or favour, affection or ill-will."
