@@ -1,0 +1,3 @@
+# SCHEDULE 1 – LIST OF FORMS.
+Reg., Sec. 1. Section No. of Act. Description. Form No. 8(1), (2), 9(1) Application for registration of business name 8(4), (5) Certificate of registration of business name 12(1) Statement for renewal of registration of business name 13(1)(a), (b), (2) Statement of change in certain particulars 13(3) Notice of cessation of business under business name 13(3), (4), (5),
+(6), (8) Statement of change in persons in relation to whom business name is registered 13(1)(c) Statement of change in particulars relating to resident agent 13(7) Notice that person has ceased to be resident agent 13(9), (10) Notice of appointment of resident agent
