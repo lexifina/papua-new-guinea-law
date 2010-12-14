@@ -1,0 +1,41 @@
+# Export (Fish) Regulation 1953
+
+Source: WIPO Lex, https://wipolex-res.wipo.int/edocs/lexdocs/laws/en/pg/pg037en.pdf (record: https://www.wipo.int/wipolex/en/legislation/details/8011)
+
+In force: 2010-12-14 (copy-date).
+
+| File | Provision |
+| --- | --- |
+| [s-001](s-001.md) | 1. INTERPRETATION. |
+| [s-002](s-002.md) | 2. APPLICATION. |
+| [s-003](s-003.md) | 3. DELEGATION. |
+| [s-004](s-004.md) | 4. GENERAL RESTRICTIONS ON EXPORT. |
+| [s-005](s-005.md) | 5. GRADERS. |
+| [s-006](s-006.md) | 6. REQUIREMENT OF TRADE DESCRIPTION. |
+| [s-007](s-007.md) | 7. NATURE OF TRADE DESCRIPTION. |
+| [s-008](s-008.md) | 8. INTERFERENCE WITH TRADE DESCRIPTIONS. |
+| [s-009](s-009.md) | 9. REGISTRATION OF EXPORT ESTABLISHMENTS AND APPOINTED PLACES. |
+| [s-010](s-010.md) | 10. SALE OR LEASE OF EXPORT ESTABLISHMENT OR APPOINTED PLACE. |
+| [s-011](s-011.md) | 11. FREEZING CHAMBERS, ETC., IN EXPORT ESTABLISHMENTS. |
+| [s-012](s-012.md) | 12. STORAGE CHAMBERS, ETC., IN APPOINTED PLACES. |
+| [s-013](s-013.md) | 13. PLACE OF EXAMINATION. |
+| [s-014](s-014.md) | 14. NOTICE OF INTENTION TO MOVE FROZEN FISH. |
+| [s-015](s-015.md) | 15. TRANSFER OF FROZEN FISH FROM EXPORT ESTABLISHMENT, ETC. |
+| [s-016](s-016.md) | 16. SHIPPING OF FROZEN FISH. |
+| [s-017](s-017.md) | 17. NOTICE OF INTENTION TO EXPORT, AND DECLARATION. |
+| [s-018](s-018.md) | 18. APPROVED FOR EXPORT STAMP. |
+| [s-019](s-019.md) | 19. EXPORT PERMITS AND CERTIFICATES AS TO EXAMINATION. |
+| [s-020](s-020.md) | 20. RE-EXAMINATION. |
+| [s-021](s-021.md) | 21. LOADING OF FROZEN FISH. |
+| [s-022](s-022.md) | 22. REGISTER OF BRANDS. |
+| [s-023](s-023.md) | 23. APPLICATION FOR REGISTRATION. |
+| [s-024](s-024.md) | 24. REGISTRATION AS TRADE MARK. |
+| [s-025](s-025.md) | 25. REGISTRATION NUMBERS. |
+| [s-026](s-026.md) | 26. ASSIGNMENTS AND TRANSMISSIONS OF TRADE MARKS. |
+| [s-027](s-027.md) | 27. CANCELLATION OF BRAND. |
+| [s-028](s-028.md) | 28. ANALYSTS. |
+| [s-029](s-029.md) | 29. CERTIFICATE OF ANALYST. |
+| [s-030](s-030.md) | 30. FEES FOR CERTIFICATES. |
+| [s-031](s-031.md) | 31. FEES FOR OFFICERS’ SERVICES. |
+| [sched-1](sched-1.md) | SCHEDULE 1 |
+| [sched-2](sched-2.md) | SCHEDULE 2 – CONDITIONS FOR EXPORT OF FISH. |

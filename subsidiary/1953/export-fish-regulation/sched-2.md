@@ -1,0 +1,42 @@
+# SCHEDULE 2 – CONDITIONS FOR EXPORT OF FISH.
+Reg., Sec. 4(1)(b). Name or description of fish. Conditions and restrictions to be complied with. Provisions relating to trade descriptions. 1. Crayfish tails—frozen. 1. Crayfish tails—
+(a) shall be clean and devoid of foreign matter; and b) shall not be soft-shelled or from a female in berry; and ) shall have the intestine completely removed; and
+(d) shall be individually wrapped in cellophane or other approved moisture-proof wrapping material that completely covers all flesh 1. The trade description on the containers shall include—
+(a) the letters “WT” or “PK”, according to whether the flesh is white or pink; and ) the words “Rock Lobster” in bold letters of equal size, and the words “Produce of Papua New Guinea”; and
+(c) the grade; and
+(d) the serial numbers of respective exposed from the shell; and e) shall be packed in containers that contain a net weight of not more than 14 kg of crayfish. 2. (1) Containers containing a net weight of 9, 11.25 or 13.5 kg shall be used, and a uniform sized box shall be used by each packer.
+(2) Containers shall be clean, new, attractive in appearance and not likely to have any deleterious effect on the contents. ) Each container shall be wirebound or strapped with suitable wire or strapping. 4) Each container shall not be more than 125 mm across its narrowest internal dimension. 3. Only one variety of crayfish tails shall be packed in each container. Crayfish tails shall be so packed as to be uniform in size and colour in each container and shall be graded in sizes as follows:— ade. Net weight of each crayfish tail Midget Under 170g
+(S) Not less than 170g and not more than 255g M) Not less than 255g and not more than 340g L) Not less than 340g and not more than 455g Jumbo (J) Over 455 g. 5. Crayfish tails shall have been processed from crayfish that—
+(a) have been killed by an approved method; and
+(b) following the removal of all intestinal parts, including the anus, have been vigorously washed individually in running water under pressure. 6. Crayfish tails shall— be placed under refrigeration, fully prepared for freezing, within a period of two hours from the time of killing; and
+(b) be reduced in temperature to not more than -7°C within a period of 12 hours from the time of killing; containers, running consecutively from the beginning of each calendar year. te.—For the purposes of Paragraph
+(c) the following abbreviations may be used:— Grade. Abbreviation Small S Medium M Large L Jumbo J. 2. Any printing on cellophane or other wrappers touching the flesh shall be in ink or colouration which has been certified as being harmless. and
+(c) immediately afterwards be transferred to a refrigeration chamber the temperature of which shall be held at not more than - 15°C constant. 2. Crayfish (uncooked)—frozen. Crayfish—
+(a) shall be clean and devoid of foreign matter; and
+(b) shall not be soft-shelled or a female in berry; and
+(c) shall be packed in containers which contain a net weight of not more than 25 kg of crayfish. 2 (1) Containers shall be clean, new, attractive in appearance and not likely to impart a taint to the contents. ) Each container shall be wirebound or strapped with suitable wire or strapping. Only one variety of crayfish shall be packed in any one container. Crayfish shall be so packed as to be uniform in size and colour in each container. Crayfish shall have been processed from crayfish that—
+(a) have been killed by an approved method; and
+(b) have been vigorously washed individually in running water under pressure. 6. Crayfish shall individually— be placed under refrigeration, fully prepared for freezing, within a period of two hours from the time of killing; and
+(b) be reduced in temperature to not more than -7°C within a period of 12 hours from the time of killing; and
+(c) immediately afterwards be transferred to a refrigeration chamber the temperature of which shall be held at not more than - 15°C constant. trade description on the containers shall include—
+(a) the letters “WT” or “PK”, according to whether the flesh is white or pink; and ) the words “Rock Lobster” in bold letters of equal size, and the words “Produce of Papua New Guinea”; and
+(c) the serial numbers of the respective containers, running consecutively from the beginning of each calendar year. 3. Crayfish (cooked)—frozen. 1. Crayfish— shall be clean and devoid of foreign matter; and The trade description on the containers shall include—
+(a) the letters “WT” or “PK”, shall not be soft-shelled or a female in berry; and c) shall be packed in containers that contain a net weight of not more than 25kg of crayfish.
+(1) Containers shall be clean, new, attractive in appearance and not likely to impart a taint to the contents. ) Each container shall be wirebound or strapped with suitable wire or strapping. Only one variety of crayfish shall be packed in each container. Crayfish shall be so packed as to be uniform in size and colour in each container. Crayfish shall have been processed from crayfish that—
+(a) have been killed by an approved method; and
+(b) following cooking but before packing, have been vigorously washed individually in running water under pressure. 6. Crayfish shall—
+(a) be placed under refrigeration, fully prepared for freezing, within a period of two hours from the time of cooking; and
+(b) be reduced in temperature to not more than -12°C and be afterwards held in a refrigeration chamber the temperature of which is held at not more than -12°C constant. according to whether the flesh is white or pink; and ) the words “Rock Lobster” in bold letters of equal size, and the words “Produce of Papua New Guinea”; and the serial numbers of the respective containers, running consecutively from the beginning of each calendar year. 4. Tuna (frozen) in round. The fish shall be frozen as soon as possible after catching, and shall be held at a temperature not exceeding -15°C. 5. Tuna (canned). Only the light-coloured meat of the tuna shall be used. Each can shall contain cooked meat, which shall—
+(a) reasonably fill the can; and
+(b) be free from all dark meat; and be packed in an approved vegetable oil; and
+(d) consist of—
+(i) in the case of solid pack fancy canned tuna—solid pieces not exceeding three in number; or ii) in the case of solid pack standard canned tuna—solid pieces not exceeding six in number; or iii) in the case of grated or shredded canned tuna—small uniform pieces produced in such form by mechanical means; or in the case of flaked canned tuna— small pieces not used in packing solid packs. trade description on the containers shall include—
+(a) the words “IN (specify variety) OIL”; and ) the words “WHITE MEAT” if the contents are derived from Albacore, or the words “LIGHT MEAT” if the contents are derived from bluefin, yellowfin or striped tuna; and
+(c) in the case of— i) solid pack fancy canned tuna, the words “FANCY PACK TUNA”; or ii) solid pack standard canned tuna, the words “SOLID PACK TUNA”; or iii) grated or shredded canned tuna, the words “GRATED TUNA” or “SHREDDED TUNA” as the case may be; or
+(iv) flaked canned tuna, the words “FLAKED TUNA”, “TUNA FLAKES” or “BITE SIZE TUNA”. . Fish other than fish specifically mentioned in this Schedule. The fish shall, in the opinion of an officer— be sound, wholesome and not in an abnormal condition; and b) be reasonably uniform in size and colour; and be contained in new containers that are suitable in respect of size, nature, durability and cleanliness; and
+(d) not be likely to arrive at their destination in a deteriorated condition. 2. Only one variety of fish shall be packed in each container. . The fish shall, in the opinion of an officer, have been processed from fish that have been treated and prepared in an approved manner. The trade description shall include the name of the variety of fish. 2. Any pictorial representation included in the trade description shall be that of the variety of fish in the container. Office of Legislative Counsel, PNG
+[1] Section 5(2): Penalty clause amended by Customs (Penalties) Regulation 1993 (No. 11 of 1993), s3.
+[2] Section 17 amended by No. 21 of 1982.
+[3] Section 17(2): Penalty clause amended by Customs (Penalties) Regulation 1993 (No. 11 of 1993), s3.
+[4] Section 20 amended by No. 21 of 1982.
+[5] Section 20(2): Penalty clause amended by Customs (Penalties) Regulation 1993 (No. 11 of 1993), s3.
