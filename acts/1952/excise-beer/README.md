@@ -1,0 +1,48 @@
+# Excise (Beer) Act 1952
+
+Source: WIPO Lex, https://wipolex-res.wipo.int/edocs/lexdocs/laws/en/pg/pg035en.pdf (record: https://www.wipo.int/wipolex/en/legislation/details/8002)
+
+In force: 2010-12-14 (copy-date).
+
+| File | Provision |
+| --- | --- |
+| [s-001](s-001.md) | 1. INTERPRETATION. |
+| [s-002](s-002.md) | 2. INCORPORATION OF PROVISIONS OF THE EXCISE ACT. |
+| [s-003](s-003.md) | 3. UNLICENSED BREWING. |
+| [s-004](s-004.md) | 4. APPLICATIONS FOR LICENCES. |
+| [s-005](s-005.md) | 5. GRANT OF LICENCES. |
+| [s-006](s-006.md) | 6. PERIOD OF LICENCES AND RENEWALS. |
+| [s-007](s-007.md) | 7. RENEWAL OF LICENCES. |
+| [s-008](s-008.md) | 8. TRANSFER OF LICENCES. |
+| [s-009](s-009.md) | 9. SECURITIES. |
+| [s-010](s-010.md) | 10. DUTIES OF LICENSED BREWERS. |
+| [s-011](s-011.md) | 11. CANCELLATION OF LICENCES. |
+| [s-012](s-012.md) | 12. SUPERVISION BY OFFICERS. |
+| [s-013](s-013.md) | 13. BREWERS’ BOOKS. |
+| [s-014](s-014.md) | 14. DUTIABLE CONTENTS OF VESSELS. |
+| [s-015](s-015.md) | 15. DEFICIENCY IN DUTY. |
+| [s-016](s-016.md) | 16. REFUND OF DUTY ON SPOILT BEER. |
+| [s-017](s-017.md) | 17. TRANSFER OF BEER FROM BREWERY TO DELIVERY STORE. |
+| [s-018](s-018.md) | 18. HOURS OF REMOVAL. |
+| [s-019](s-019.md) | 19. SIZE OF VESSELS. |
+| [s-020](s-020.md) | 20. MARKING AND LABELLING OF CONTAINERS OF BEER REMOVED. |
+| [s-021](s-021.md) | 21. DISPOSAL OF SPOILT BEER. |
+| [s-022](s-022.md) | 22. DEFACING MARKS OR LABELS. |
+| [s-023](s-023.md) | 23. MANNER OF MARKING AND LABELLING. |
+| [s-024](s-024.md) | 24. UNAUTHORIZED REMOVAL OF BEER. |
+| [s-025](s-025.md) | 25. DISPOSAL OF BEER BY COLLECTOR. |
+| [s-026](s-026.md) | 26. SALES BY COLLECTOR. |
+| [s-027](s-027.md) | 27. ACCESS TO BREWERY AND BREWER’S BOOKS. |
+| [s-028](s-028.md) | 28. ENTRY AND SEARCH OF PREMISES. |
+| [s-029](s-029.md) | 29. STOPPING AND SEARCH OF VEHICLES AND BOATS. |
+| [s-030](s-030.md) | 30. SEIZURE OF FORFEITED BEER. |
+| [s-031](s-031.md) | 31. PRODUCTION OF CART-NOTES. |
+| [s-032](s-032.md) | 32. SUPPLY OF SAMPLES. |
+| [s-033](s-033.md) | 33. OBSTRUCTION. |
+| [s-034](s-034.md) | 34. FORFEITURE OF CERTAIN BEER. |
+| [s-035](s-035.md) | 35. POSSESSION OF BEER ON WHICH DUTY HAS NOT BEEN PAID. |
+| [s-036](s-036.md) | 36. DILUTION OF BEER. |
+| [s-037](s-037.md) | 37. AFFIXING OF LABELS BY BOTTLERS. |
+| [s-038](s-038.md) | 38. UNAUTHORIZED PRINTING OR POSSESSION OF CART-NOTE FORMS. |
+| [s-039](s-039.md) | 39. DECLARATIONS. |
+| [s-040](s-040.md) | 40. REGULATIONS. |
