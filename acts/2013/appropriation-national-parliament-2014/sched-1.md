@@ -1,0 +1,2 @@
+# SCHEDULE.
+ESTIMATES OF EXPENDITURE FOR THE YEAR ENDING 31 DECEMBER 2014. DIVISION SUMMARY KINA National Parliament Operational Expenditure 130, 724,600. Appropriation (National Parliament 2014) I hereby certify that the above is a fair print of the Appropriation (National Parliament 2014) Act 2013 which has been made by the National Parliament. Clerjt of the National Parliament. 0 4 FEB 2014 I hereby certify that the Appropriation (National Parliament 2014) Act 2013 was made by the National Parliament on 26 November 2013. Speaker of the National Parliament. 0 k FEB 20K -2-
