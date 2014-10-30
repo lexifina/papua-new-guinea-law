@@ -1,0 +1,24 @@
+# SCHEDULE 1
+Schedule 1 A Section 8 The Department shall have the following powers -
+(a) to co-ordinate and implement Government policies relating to higher and technical education, and research, science and technology; and
+(b) to co-ordinate and implement the registration, de-registration, and accreditation or de- accreditation of all higher education institutions and programmes, including the approval of universities, in accordance with decisions by the Board or Minister or National Executive Council, as prescribed in this Act; and
+(c) to require reports from the Board; and
+(d) to support the Board in the performance of its functions; and
+(e) to prosecute or take other enforcement action against persons and institutions that contravene the provisions of this Act after permission is obtained from the Public Prosecutor; and -59-
+(f) to formulate and review proposals for financial assistance for higher education institutions to be made to the Government, including sectoral funding models; and
+(g) to receive and coordinate and manage all requests for financial support from Papua New Guinea universities made to the Government, including annual budget submissions; and
+(h) to receive from central agencies all Government funding for Papua New Guinea universities, including annual budgetary appropriations, and to disburse this to universities in accordance with agreed plans, targets and outputs; and (/) to review and develop policies and advice in relation to academic salaries and other forms of remuneration or entitlement for staff of public higher education institutions and in relation to the fees charged to students; and (/') to approve and administer a Governance Manual for universities and provide related guidance on corporate, academic or student governance and to ensure the accountability of universities and other institutions of higher education to government; and
+(k) to review and provide advice on proposed formal affiliations, mergers or amalgamations of higher education institutions and universities; and (/) to co-ordinate, plan, secure and allocate research funds; and
+(ni) to advise on and recommend categorisations of higher education institutions and public research institutions; and («) to promote co-ordination and co-operation between higher education institutions and other bodies that conduct research, including public research institutions; and
+(o) to develop and monitor the implementation of a national plan for higher and technical education and research, science and technology; and
+(p) to assist in the preparation and execution of plans for the development of public higher education institutions, public universities and public research institutions; and
+(q) to monitor the enrolment patterns and programme offerings at higher education institutions, including universities, and the output and impact of research conducted at research institutions and universities; and
+(r) to monitor, collect, examine and make available, information relating to higher education institutions including universities, and relating to science, technology and research; and
+(s) to seek advice and or obtain information from any person, business entity, industry, or organisations whether public or private in regard to higher education institutions, including universities, and research institutions; and
+(f) to share information on higher education institutions with other authorities dealing with higher and technical education or with any professional licensing or accreditation body to the extent permitted by law; and
+(u) so far as is practicable, regularly visit the premises of each higher education institution and research institution; and
+(v) if requested by the Minister, to assist in the resolution of a crisis affecting a public higher education institution or a public university; and
+(w) to appoint and support committees, working parties or other advisory bodies (which shall, where appropriate, reflect the principles of partnership of all higher and technical education institutions and agencies with responsibility for such institutions) to carry out such duties as it thinks fit and conferring appropriate powers on such committees or advisory bodies, this function to include the establishment of a body with delegated authority to arbitrate on matters referred to it by universities or institutions of higher education; and
+(jc) to facilitate, promote and encourage research in science and technology and its application in higher and technical education; and -60-
+(y) to plan the overall strategy to ensure the necessary co-operation of relevant departments and non-government organisations in all aspects of higher and technical education; and
+(z) to exercise such other powers as are necessary to achieve its objectives or as are given to it under this Act or any other law.
