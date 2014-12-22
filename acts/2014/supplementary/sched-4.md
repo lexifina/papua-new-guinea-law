@@ -1,0 +1,2 @@
+# SCHEDULE 4.
+A Reduction of Appropriation (General Public Service Expenditure 2014) Act 2013. Details of activities funded from Operational Expenditure, Capital Expenditure and funds held in Trust are attached at Schedule 1. SUMMARY KINA Various Operational Expenditure 154,000,000.00. Various Capital Expenditure 472,000,000.00. Various Funds held in Trust 444,000,000.00. Total Reduction in Appropriation 1,070,000,000.00.
