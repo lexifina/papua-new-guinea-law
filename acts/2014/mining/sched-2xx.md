@@ -1,0 +1,3 @@
+# SCHEDULE 2
+[_. MINING (OKTEDI EXTENSION (TENTH SUPPLEMENTAL) AGREEMENT) ACT
+[_; 1. Recognises the involvement of the local communities in the Consultations and their expressed views regarding the continued operation of the Mine and containing the agreement | between the State, Mineral Resources Ok Tedi No. 2 Limited, PNG Sustainable u"' Development Program Limited and Ok Tedi Mining Limited that the operation of the Mine should be extended. ? • ^ 2. Approves and gives the force of law to the compensation and other arrangements under the , , CMCA Extension Agreements, including the finality of those compensation arrangements. LJ L L_ r - L,
