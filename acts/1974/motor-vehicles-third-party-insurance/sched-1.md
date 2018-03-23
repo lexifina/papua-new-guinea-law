@@ -1,0 +1,2 @@
+# SCHEDULE 1 – OATH AND AFFIRMATION OF OFFICE.
+Sec. 12 Oath. “I, . . . , do swear that I will well and truly serve the Independent State of Papua New Guinea in the office of director of the Motor Vehicles Insurance (P.N.G.) Trust. So help me God!” Affirmation. “I, . . . , do solemnly and sincerely promise and declare that I will well and truly serve the Independent State of Papua New Guinea in the office of director of the Motor Vehicles Insurance (P.N.G.) Trust” Office of Legislative Counsel, PNG
