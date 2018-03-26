@@ -1,0 +1,2 @@
+# SCHEDULE 2 – EXCEPTIONS AND MODIFICATIONS TO THE PUBLIC
+BODIES (FINANCIAL ADMINISTRATION) ACT. Sec. 14. Provision Modification, etc. Applies as if the words “in such form as the Minister approves” were omitted. Does not apply. Does not apply. Does not apply. For the purposes of Subsection (1) the specified sum is K1,000.00. Provision Modification, etc. Applies as if the words “in such form as the Minister approves” were omitted. Does not apply. Does not apply. Does not apply. For the purposes of Subsection (1) the specified sum is K1,000.00.
