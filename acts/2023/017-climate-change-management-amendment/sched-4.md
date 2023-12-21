@@ -1,0 +1,3 @@
+# SCHEDULE 4. - GREEN FEES.
+Act, Sec. 3 8A(l) Types of Fees Description of fees Fees payable in PNG Kina Green Fee International arrival only for all foreign passport holders
+" I hereby certify that the above is a fair print of the Climate Change (Management)(Amendment) Act 2023, which has been made by the National Parliament. Acting Clerk o th National Parliament. 21 DEC 2023 I hereby certify that the Climate Change (Management)(Amendment) Act 2023, was made by the National Parliament on 11 October 2023, by an absolute majority in accordance with the Constitution. Acting Speaker of the National Parliament. - 16 - 21 DEC 2023 ,,
