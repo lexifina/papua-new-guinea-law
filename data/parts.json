@@ -1,0 +1,11 @@
+{
+ "parts": {
+  "30-employment-act.json": {
+   "acts": [
+    "employment-act"
+   ],
+   "sha256": "dab156ecde3c4cc637ebf4a8fcf1fc849fd23f06abd344e5121c9e8322176e12"
+  }
+ },
+ "schema": 1
+}
