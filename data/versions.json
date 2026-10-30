@@ -1,0 +1,61 @@
+{
+ "country": "PG",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of the Independent State of Papua New Guinea",
+   "url": "https://parliament.gov.pg/wp-content/uploads/2026/04/PNG-CONSTITUTION.pdf",
+   "versions": [
+    {
+     "from": "2009-10-09",
+     "units": 463,
+     "source_url": "https://parliament.gov.pg/wp-content/uploads/2026/04/PNG-CONSTITUTION.pdf",
+     "sha256": "a5586577b223be4c42469581ce2a2bf104cebfd9a27f5dcb48e8f115345d211d"
+    }
+   ]
+  },
+  {
+   "slug": "criminal-code",
+   "short": "Criminal Code",
+   "title": "Criminal Code Act 1974 (Chapter 262), with the Criminal Code in Schedule 1",
+   "url": "https://icac.gov.pg/wp-content/uploads/2023/11/Criminal-Code-Act-1974.pdf",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 661,
+     "source_url": "https://icac.gov.pg/wp-content/uploads/2023/11/Criminal-Code-Act-1974.pdf",
+     "sha256": "c7fa2ca9aa21bfc4cbf73b08c3ed644330ff75e5433ed7a0fcd287a27d068e5d"
+    }
+   ]
+  },
+  {
+   "slug": "companies-act",
+   "short": "Companies Act",
+   "title": "Companies Act 1997 (No. 10 of 1997), consolidated",
+   "url": "https://www.ipa.gov.pg/Documentation/PG/ActsAndRegulations/Companies_Act_1997_(consolidated_to_2014).pdf",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 498,
+     "source_url": "https://www.ipa.gov.pg/Documentation/PG/ActsAndRegulations/Companies_Act_1997_(consolidated_to_2014).pdf",
+     "sha256": "fc71944ea8339fe42493b68abdf917eba7cf6e9b95274dcef6ef82e20a5e874a"
+    }
+   ]
+  },
+  {
+   "slug": "employment-act",
+   "short": "Employment Act",
+   "title": "Employment Act 1978 (Chapter 373)",
+   "url": "https://www.dpm.gov.pg/wp-content/uploads/2019/01/Employment-Act-1978.pdf",
+   "versions": [
+    {
+     "from": "2019-05-08",
+     "units": 156,
+     "source_url": "https://www.dpm.gov.pg/wp-content/uploads/2019/01/Employment-Act-1978.pdf",
+     "sha256": "38d5aea303316689cefa9cc4fc7d0fb78ca95bf161a2f16c2145e0f0fbd4b98a"
+    }
+   ]
+  }
+ ]
+}
