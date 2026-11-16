@@ -59,6 +59,7 @@ Each commit is dated at noon, Pacific/Port_Moresby, and carries its day in its `
 - Every commit's trailers parse; there are no merge commits, no commit dates that go backwards and none after the build.
 - A second build from the same corpus gave the same hashes for all 4 commits and 4 tags (see [`REPRODUCE.md`](REPRODUCE.md)).
 - History is append-only: later builds add commits on top (`tools/append.py`) and never rewrite published ones.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -81,6 +82,10 @@ Each commit is dated at noon, Pacific/Port_Moresby, and carries its day in its `
 See [`LICENSE`](LICENSE). The Parliament's page carries no licence statement, and the text is reproduced as an official publication of the Parliament, with attribution to it; the arrangement of this repository, its tables, commit messages and tools are Lexifina's, under CC BY 4.0.
 
 No model wrote, translated or corrected legal text, and no model runs at build time; the scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
