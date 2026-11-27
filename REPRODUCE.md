@@ -89,3 +89,14 @@ pg_build.py appends one commit per version and pushes fast-forward). A pure-rena
 three Acts into acts/<year>/. The October corpus, tools/ and data/ describe the first four acts
 only, under their old paths. Held copies and the reason for each are listed by the runner in
 held.json.
+
+From 27 November 2026 the runner also reads: `pg_fetch.py casa` (Civil Aviation Rules Parts),
+`pg_fetch.py wp` (the PDF libraries of State bodies' WordPress sites, through /wp-json/wp/v2/media,
+kept only for legal instruments by file name), `pg_fetch.py pages` (legislation pages of IPA,
+Customs and the election petitions registry) and `pg_fetch.py wayback` (the former
+parliament.gov.pg/uploads/acts/ folder from the Internet Archive, one request in flight;
+archive.org's refusals are waited out, never routed round). Acts as certified are dated by the PDIS
+certification day matched on title and year, or the commencement day the Act fixes; Acts and
+statutory instruments of 1977-2009 may be dated from the Office of Legislative Counsel's tables
+(cache/olc/). Bougainville Acts fetched by `pg_fetch.py abg` are not built here: they belong in
+papua-new-guinea-bougainville-law.

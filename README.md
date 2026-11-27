@@ -9,7 +9,7 @@ The law of Papua New Guinea as a git history: one file per section, one commit p
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Papua New Guinea's national law, which global-law reads at `papua-new-guinea/national/acts/`.
 
-**What is in it now:** the Constitution, the Criminal Code Act 1974, the Companies Act 1997 and the Employment Act 1978 (one consolidated version each), and 175 further Acts and 122 items of subsidiary legislation and Rules of Court, each version dated by the day it took effect (203 of them from secondary copies, WIPO Lex and FAOLEX, where no official copy with a text layer is online). [`STRUCTURE.md`](STRUCTURE.md) gives the layout and the dating rules.
+**What is in it now:** the Constitution, the Criminal Code Act 1974, the Companies Act 1997 and the Employment Act 1978 (one consolidated version each), and 235 further Acts and 140 items of subsidiary legislation and Rules of Court, each version dated by the day it took effect (243 of them from secondary copies, WIPO Lex and FAOLEX, where no official copy with a text layer is online). [`STRUCTURE.md`](STRUCTURE.md) gives the layout and the dating rules.
 
 Each act is a folder (`acts/<year>/<number>-<name>/`, `subsidiary/<year>/<name>/`) with one file per section and schedule, and a `README.md` listing its provisions (`acts/1978/employment/s-061.md` is section 61 of the Employment Act 1978, Chapter 373); the Constitution also has its preamble and one `heading-NNN` file per part, division and subdivision, in reading order.
 
@@ -80,6 +80,10 @@ Each commit is dated at noon, Pacific/Port_Moresby, and carries its day in its `
 | [National Parliament, PDIS](https://parliament.gov.pg/bills-legislations/) | Acts as certified, 2012 onwards, with certification days | no | Mostly scans: only copies with a text layer are read |
 | [WIPO Lex](https://www.wipo.int/wipolex/en/members/profile/PG) | Acts and regulations (secondary copy) | no | `Source-status: secondary copy` |
 | [FAOLEX](https://faolex.fao.org) | Acts and regulations (secondary copy) | no | `Source-status: secondary copy` |
+| [Civil Aviation Safety Authority](https://casapng.gov.pg/civilaviationrules/) | Civil Aviation Rules Parts, as consolidated | no | Dated by the Part's applicable day when it is its latest amendment's |
+| State bodies: [NICTA](https://www.nicta.gov.pg), [ICCC](https://iccc.gov.pg), [Treasury](https://treasury.gov.pg), [Finance](https://www.finance.gov.pg), [MRA](https://www.mra.gov.pg), [Ombudsman Commission](https://ombudsman.gov.pg), [DICT](https://www.ict.gov.pg), [PM&NEC](https://pmnec.gov.pg), [IPA](https://www.ipa.gov.pg), [Customs](https://customs.gov.pg), [election petitions registry](https://www.pngep.com) | Acts, regulations, rules, determinations and prices orders they publish | no | Gazette copies dated by the Gazette issue |
+| [Former Parliament Acts folder](https://web.archive.org/web/2020/http://www.parliament.gov.pg/uploads/acts/), via the Internet Archive | Acts as certified, 2012-2025 (the address no longer answers) | no | `Source-status: archived official copy`; dated by the PDIS certification day |
+| [Office of Legislative Counsel](https://www.pnglaw.gov.pg) | Tables of sessional Acts and statutory instruments 1977-2009 | no | Commencement days only (`olc-table`) |
 
 ## Licence
 
