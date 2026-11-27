@@ -9,7 +9,7 @@ The law of Papua New Guinea as a git history: one file per section, one commit p
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Papua New Guinea's national law, which global-law reads at `papua-new-guinea/national/acts/`.
 
-**What is in it now:** the Constitution, the Criminal Code Act 1974, the Companies Act 1997 and the Employment Act 1978 (one consolidated version each), and 23 further Acts and 20 items of subsidiary legislation and Rules of Court, each version dated by the day it took effect (29 of them from secondary copies, WIPO Lex and FAOLEX, where no official copy with a text layer is online). [`STRUCTURE.md`](STRUCTURE.md) gives the layout and the dating rules.
+**What is in it now:** the Constitution, the Criminal Code Act 1974, the Companies Act 1997 and the Employment Act 1978 (one consolidated version each), and 46 further Acts and 27 items of subsidiary legislation and Rules of Court, each version dated by the day it took effect (58 of them from secondary copies, WIPO Lex and FAOLEX, where no official copy with a text layer is online). [`STRUCTURE.md`](STRUCTURE.md) gives the layout and the dating rules.
 
 Each act is a folder (`acts/<year>/<number>-<name>/`, `subsidiary/<year>/<name>/`) with one file per section and schedule, and a `README.md` listing its provisions (`acts/1978/employment/s-061.md` is section 61 of the Employment Act 1978, Chapter 373); the Constitution also has its preamble and one `heading-NNN` file per part, division and subdivision, in reading order.
 
@@ -45,7 +45,7 @@ Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local M
 
 ## Dates
 
-Each commit is dated at noon, Pacific/Port_Moresby, and carries its day in its `In-force:` trailer. No source gives the day its text took effect, so each act's one version is dated by its PDF:
+Each commit is dated at noon, Pacific/Port_Moresby, and carries its day in its `In-force:` trailer. The first four acts' sources give no day their text took effect, so each one's single version is dated by its PDF (below); every later version is dated by the rules in [`STRUCTURE.md`](STRUCTURE.md):
 
 - the Constitution, 2009-10-09, the day the Parliament's PDF reprint was made (the Constitution came into force on 16 September 1975);
 - the Criminal Code, 2023-11-06, and the Companies Act, 2026-06-09, the last-modified dates of the PDFs on the ICAC and IPA websites;
