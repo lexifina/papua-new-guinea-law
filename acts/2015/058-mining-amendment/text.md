@@ -1,4 +1,4 @@
-# Mining
+# Mining (Amendment) Act
 No.58of 2015.
 Mining (Amendment) Act 2015.
 Certified on: 2 3 NOV 2016
