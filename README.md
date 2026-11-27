@@ -9,9 +9,9 @@ The law of Papua New Guinea as a git history: one file per section, one commit p
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Papua New Guinea's national law, which global-law reads at `papua-new-guinea/national/acts/`.
 
-**What is in it now:** four acts, each in one version, the oldest its source publishes: the Constitution (463 files), the Criminal Code Act 1974 with the Criminal Code (661), the Companies Act 1997 (498) and the Employment Act 1978 (156), 1,778 files in all. No amendment is in the history yet, so each git command below shows one commit, credited to the publisher. [`REPRODUCE.md`](REPRODUCE.md) lists every act with its version; [`data/versions.json`](data/versions.json) gives each source PDF with its sha256.
+**What is in it now:** the Constitution, the Criminal Code Act 1974, the Companies Act 1997 and the Employment Act 1978 (one consolidated version each), and 23 further Acts and 20 items of subsidiary legislation and Rules of Court, each version dated by the day it took effect (29 of them from secondary copies, WIPO Lex and FAOLEX, where no official copy with a text layer is online). [`STRUCTURE.md`](STRUCTURE.md) gives the layout and the dating rules.
 
-Each act is a folder with one file per section and schedule, and a `README.md` listing its provisions (`employment-act/s-061.md` is section 61 of the Employment Act 1978, Chapter 373); the Constitution also has its preamble and one `heading-NNN` file per part, division and subdivision, in reading order.
+Each act is a folder (`acts/<year>/<number>-<name>/`, `subsidiary/<year>/<name>/`) with one file per section and schedule, and a `README.md` listing its provisions (`acts/1978/employment/s-061.md` is section 61 of the Employment Act 1978, Chapter 373); the Constitution also has its preamble and one `heading-NNN` file per part, division and subdivision, in reading order.
 
 The text is in English, as the sources print it.
 
@@ -19,10 +19,10 @@ The text is in English, as the sources print it.
 
 | Question | Command |
 | --- | --- |
-| Every change to section 61 of the Employment Act | `git log -p --word-diff -- employment-act/s-061.md` |
-| Which law wrote each line of section 61? | `git blame employment-act/s-061.md` |
-| Every version of the Employment Act, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- employment-act ':!*/README.md'` |
-| Section 61 as it stood on 1 January 2026 | `python tools/on.py 2026-01-01 employment-act 61` |
+| Every change to section 61 of the Employment Act | `git log -p --word-diff -- acts/1978/employment/s-061.md` |
+| Which law wrote each line of section 61? | `git blame acts/1978/employment/s-061.md` |
+| Every version of the Employment Act, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- acts/1978/employment ':!*/README.md'` |
+| Section 61 as it stood on 1 January 2026 | `python tools/on.py 2026-01-01 acts/1978/employment 61` |
 
 **Outside git**, we also host this record publicly, for free:
 
@@ -38,7 +38,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add papua-new-guinea/national/acts
-python3 tools/law.py show 2026-01-01 papua-new-guinea/national/acts/employment-act/s-061.md
+python3 tools/law.py show 2026-01-01 papua-new-guinea/national/acts/acts/1978/employment/s-061.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -65,7 +65,7 @@ Each commit is dated at noon, Pacific/Port_Moresby, and carries its day in its `
 
 - **Past versions and amending laws.** Each source publishes one consolidated text; the footnotes naming the amending laws are not reproduced.
 - **Recent amendments.** The Companies Act file is described as consolidated to 2014, the Criminal Code and the Employment Act print no consolidation date, and the Constitution is a reprint whose PDF was made in 2009; later amendments may be missing.
-- **Most of the law.** Only these four acts are here: no other Acts, Organic Laws, subsidiary legislation or case law. Papua New Guinea has no civil code. The Constitution of the Autonomous Region of Bougainville is in [papua-new-guinea-bougainville-law](https://github.com/lexifina/papua-new-guinea-bougainville-law).
+- **Most of the law.** The Parliament's certified copies of recent Acts are mostly scans without a text layer, and no OCR is run, so they are not read; Acts whose commencement is left to a notice are held. No case law: the courts publish none on their own site, and PacLII is not used. The Constitution of the Autonomous Region of Bougainville is in [papua-new-guinea-bougainville-law](https://github.com/lexifina/papua-new-guinea-bougainville-law).
 - **Page furniture and repealed sections.** Running headers, page numbers, the Acts' part and division headings, and Criminal Code sections printed as "[REPEALED.]" are left out.
 
 ## Sources
@@ -76,10 +76,14 @@ Each commit is dated at noon, Pacific/Port_Moresby, and carries its day in its `
 | [Independent Commission Against Corruption](https://icac.gov.pg/wp-content/uploads/2023/11/Criminal-Code-Act-1974.pdf) | Criminal Code Act 1974 (Chapter 262), consolidated | no | Office of Legislative Counsel consolidation, undated |
 | [Investment Promotion Authority](https://www.ipa.gov.pg/Documentation/PG/ActsAndRegulations/Companies_Act_1997_(consolidated_to_2014).pdf) | Companies Act 1997 (No. 10 of 1997), consolidated | no | Described as consolidated to 2014 |
 | [Department of Personnel Management](https://www.dpm.gov.pg/wp-content/uploads/2019/01/Employment-Act-1978.pdf) | Employment Act 1978 (Chapter 373), Employment and Industrial Relations Library | no | No consolidation date |
+| [PNG Judiciary, Rules of Court](https://www.pngjudiciary.gov.pg/index.php/national-court/acts-and-rules) | Rules of Court, consolidated by the Rules Committee | no | Dated by the latest commencement the notes give |
+| [National Parliament, PDIS](https://parliament.gov.pg/bills-legislations/) | Acts as certified, 2012 onwards, with certification days | no | Mostly scans: only copies with a text layer are read |
+| [WIPO Lex](https://www.wipo.int/wipolex/en/members/profile/PG) | Acts and regulations (secondary copy) | no | `Source-status: secondary copy` |
+| [FAOLEX](https://faolex.fao.org) | Acts and regulations (secondary copy) | no | `Source-status: secondary copy` |
 
 ## Licence
 
-See [`LICENSE`](LICENSE). The Parliament's page carries no licence statement, and the text is reproduced as an official publication of the Parliament, with attribution to it; the arrangement of this repository, its tables, commit messages and tools are Lexifina's, under CC BY 4.0.
+See [`LICENSE`](LICENSE). The Parliament's page carries no licence statement, and the text is reproduced as an official publication of the Parliament, with attribution to it; the arrangement of this repository, its tables, commit messages and tools are Lexifina's, dedicated to the public domain under CC0 1.0; LICENSE lists each further source's own terms.
 
 No model wrote, translated or corrected legal text, and no model runs at build time; the scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (see [`REPRODUCE.md`](REPRODUCE.md)).
 

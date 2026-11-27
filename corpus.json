@@ -1,0 +1,30 @@
+{
+  "corpus": "pg/national/acts",
+  "name": "Papua New Guinea: the Constitution, Acts of the National Parliament (and earlier Acts and Ordinances in force), subsidiary legislation and Rules of Court, each version dated by the day it took effect",
+  "label": "Papua New Guinea",
+  "language": "en",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "In-force-basis",
+      "Source",
+      "Source-status",
+      "Kind"
+    ],
+    "time": "12:00 Pacific/Port_Moresby (UTC+10)"
+  },
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "author": "the Act (\"Act No. N of YYYY\") for an Act as made when its number is known; else its publisher",
+  "citation": {
+    "file": "((?:acts|subsidiary)/[0-9]{4}/[^/]+|constitution)/s(?:ec)?-0*([0-9]+[a-z-]*)\\.md",
+    "cites": "(^|[^0-9])(section|s\\.?) ?{n}\\b"
+  },
+  "sources": [
+    "https://parliament.gov.pg",
+    "https://pdis.parliament.gov.pg",
+    "https://www.pngjudiciary.gov.pg",
+    "https://www.wipo.int/wipolex",
+    "https://faolex.fao.org"
+  ]
+}

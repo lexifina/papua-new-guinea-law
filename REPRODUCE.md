@@ -80,3 +80,12 @@ The commit messages are written by `build.py` from the source data.
 Model use at data-build time:
 - Claude Code wrote the deterministic extraction code; no model wrote or altered any legal text.
 - none
+
+## Runner (from 27 November 2026)
+
+Commits after the documentation commits of October/November 2026 are appended by the runner in
+scripts/papua-new-guinea-law/runner (pg_fetch.py fetches, pg_parse.py reads the PDF text layers,
+pg_build.py appends one commit per version and pushes fast-forward). A pure-rename commit moved the
+three Acts into acts/<year>/. The October corpus, tools/ and data/ describe the first four acts
+only, under their old paths. Held copies and the reason for each are listed by the runner in
+held.json.
