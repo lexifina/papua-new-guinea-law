@@ -1,4 +1,4 @@
-# Export
+# Export (Fish) (Amendment) Regulations
 THE INDEPENDENT STATE OF PAPUA NEW GUINEA
 STATUTORY INSTRUMENT
 No. 21 of 1982
