@@ -1,4 +1,4 @@
-# Environment
+# Environment (Amendment) Act
 No.49of 2015.
 Environment (Amendment) Act 2015.
 Certified on: 2 3 NOV ?~1f
