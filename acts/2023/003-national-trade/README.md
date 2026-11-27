@@ -1,4 +1,4 @@
-# National Trade Act No. 3 of 2023
+# National Trade Act 2023
 
 Source: FAOLEX (FAO), https://faolex.fao.org/docs/pdf/png223855.pdf (record: https://faolex.fao.org/en/documents/LEX-FAOC223855/national-trade-act-no-3-of-2023-png-2023)
 
