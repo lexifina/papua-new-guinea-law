@@ -1,4 +1,4 @@
-# Emergency 2018
+# Emergency (General Powers) Act 2018
 
 Source: FAOLEX (FAO), https://faolex.fao.org/docs/pdf/png189041.pdf (record: https://faolex.fao.org/en/documents/LEX-FAOC189041/emergency-general-powers-act-no-2-of-2018-png-2018)
 
