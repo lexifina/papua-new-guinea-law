@@ -1,4 +1,4 @@
-# National Maritime Safety Authority
+# National Maritime Safety Authority (Amendment) Act
 No. 60 of 2015.
 National Maritime Safety Authority (Amendment) Act 2015.
 Certified on: 2 3 NOV 2016
