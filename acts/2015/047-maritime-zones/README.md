@@ -1,4 +1,4 @@
-# Maritime Zones Act No. 47 of 2015
+# Maritime Zones Act 2015
 
 Source: FAOLEX (FAO), https://faolex.fao.org/docs/pdf/png188723.pdf (record: https://faolex.fao.org/en/documents/LEX-FAOC188723/maritime-zones-act-no-47-of-2015-png-2015)
 
