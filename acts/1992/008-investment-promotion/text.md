@@ -1,4 +1,4 @@
-# Investment Promotion Act No. 8 of 1992
+# Investment Promotion Act
 UNCTAD Compendium of
 Investment Laws
 Investment Promotion Act 1992 (1992)
